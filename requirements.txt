@@ -1,0 +1,10 @@
+crewai 
+crewai-tools 
+openai 
+groq 
+python-dotenv
+markdown
+xhtml2pdf 
+ReportLab
+gradio
+supabase
